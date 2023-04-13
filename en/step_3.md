@@ -12,19 +12,15 @@ Once the machine learning model has been trained on a lot of song data, we can u
 
 --- task ---
 
-Open the website [Machine Learning for Kids](https://machinelearningforkids.co.uk).
+Open the website [Machine Learning for Kids](https://machinelearningforkids.co.uk/#!/login).
 
 --- /task ---
 
 --- task ---
 
-Select Log in from the top menu. 
+In the screen that appears, choose **Log In**. Enter your username and password on the next screen.
 
 ![A picture of the blue log in button](images/singup_login.png)
-
-In the screen that appears, choose **Log In** if your mentor gave you some login details. Enter your username and password on the next screen.
-
-Choose **Sign Up** if you are creating your own account and follow the prompts to create a new account.
 
 --- /task ---
 
