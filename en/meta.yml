@@ -9,3 +9,4 @@ steps:
   - title: Introduction
   - title: Collect song data
   - title: Train the model with your data
+  - title: What next?
