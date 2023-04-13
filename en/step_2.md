@@ -16,7 +16,7 @@ Don’t forget you can change genre by clicking the green flag and entering a ne
 
 --- collapse ---
 ---
-title: Pro move: Create a list of genres and choose a random one each time
+title: Pro move - Create a list of genres and choose a random one each time
 ---
 
 `Create a List` in the `Variables`{:class="block3variables"} menu called `genre list` which contains all the genres you want to search.  
