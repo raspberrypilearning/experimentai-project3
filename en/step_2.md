@@ -2,17 +2,13 @@
 
 This whole stage of the quest is just about listening to music!
 
-Now that you’ve created your labelling program for your machine learning model in Scratch, you can start labelling tracks and creating training data for the model.
+Now it's time to collect data on songs. The app you just created in Scratch will help your machine learning model learn about different types of music. You're going to use that app now to **label** the songs you listen to.
 
-The more music you classify, the better your machine learning model will be at choosing music your user will like. 
-Take your time in this session to listen to and label lots of music, making sure you change your search from time to time to include all the genres for each class (and maybe add some new ones you come across!)
+The more music you listen to and label, the better your machine learning model will become at picking out music your user will enjoy. So, take your time and listen to lots of music, trying out different genres too!
 
-### Classifying more music
-Our Scratch labelling application searches the song database and returns random songs in a specific style of music or genre. This is because the catalogue of music available to us is so huge and varied that if you returned something totally random, you would be hearing samples of things like podcasts and audiobooks as well!
+One thing to remember is that when you use the labelling app, it might eventually start playing you lots of songs you've already heard. That's why it's important to switch up the genre of music you're searching for every now and then to ensure you're getting a variety of songs.
 
-A good way to build a wide sample of music data is to change genre from time to time while you are classifying music. 
-
-Don’t forget you can change genre by clicking the green flag and entering a new value for genre at the prompt. Remember to change this every so often to cover all the genres you listed in the earlier stages of the quest.
+To change the genre, simply click the green flag and enter a new genre. Be sure to try out all the different genres you listed earlier in the quest.
 
 --- collapse ---
 ---
@@ -29,3 +25,26 @@ When you set the genre for your search in your main script, you can use this com
 
 --- /collapse ---
 
+--- task ---
+
+Listen to lots of music and label the songs you hear.
+
++ If you don't like the song being played, click `reject`
++ If you *do* like it, click the sprite for the playlist into which you think it fits.
+
+--- /task ---
+
+--- task ---
+
+Change genre every so often to ensure a wide range of music data.
+
+--- /task ---
+
+
+--- task ---
+
+Share interesting genres you find with your fellow creators. 
+
+You can find new genres on [Spotify](https://open.spotify.com/genre/hub-browse-grid){:target="_blank"} or [everynoise](https://everynoise.com/){:target="_blank"}
+
+--- /task ---
