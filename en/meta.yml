@@ -1,8 +1,6 @@
 title: Experience AI Challenge Stage 3 - Listen and Label
 hero_image: images/banner.png
-description: This whole stage of the quest is just about listening to music! 
-
-In this stage of the ExperimentAI Music quest, you will collect data to train your machine learning model by listening to as much music as you can and classifying it with your app.
+description: This whole stage of the quest is just about listening to music! In this stage of the ExperimentAI Music quest, you will collect data to train your machine learning model by listening to as much music as you can and classifying it with your app.
 version: 4
 listed: false
 copyedit: false
